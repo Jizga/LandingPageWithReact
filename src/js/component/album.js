@@ -42,32 +42,32 @@ export function Album() {
 						<div className="col-md-3">
 							<Card
 								title="My fifth imagen"
-								description="This imagine is about a boy with his dog"
-								img="https://i.blogs.es/cd8e21/istock_38997540_medium/1366_2000.jpg"
+								description="This imagine is about a boy dog"
+								img="https://i.blogs.es/d099a0/perro/840_560.jpg"
 							/>
 						</div>
 
 						<div className="col-md-3">
 							<Card
 								title="My sixth imagen"
-								description="This imagine is about a boy with his dog"
-								img="https://i.blogs.es/cd8e21/istock_38997540_medium/1366_2000.jpg"
+								description="This imagine is about a dog in the countryside"
+								img="https://verdecora.es/blog/wp-content/uploads/2019/09/como-saber-perro-es-feliz.jpg"
 							/>
 						</div>
 
 						<div className="col-md-3">
 							<Card
 								title="My seventh imagen"
-								description="This imagine is about a boy with his dog"
-								img="https://i.blogs.es/cd8e21/istock_38997540_medium/1366_2000.jpg"
+								description="This imagine is about 4 friends"
+								img="https://aws.traveler.es/prod/designs/v1/assets/940x627/91190.jpg"
 							/>
 						</div>
 
 						<div className="col-md-3">
 							<Card
 								title="My eighth imagen"
-								description="This imagine is about a boy with his dog"
-								img="https://i.blogs.es/cd8e21/istock_38997540_medium/1366_2000.jpg"
+								description="This imagine is about a women in a train"
+								img="https://static.vix.com/es/sites/default/files/styles/1x1/public/v/viajar-en-tren-ventajas-mexico.jpg"
 							/>
 						</div>
 					</div>
