@@ -4,7 +4,7 @@ export function Jumbotron() {
 	return (
 		<div className="container mt-5">
 			<div className="jumbotron">
-				<h1 className="display-1">A Warm Welcome!</h1>
+				<h1 className="display-2">A Warm Welcome!</h1>
 				<p className="lead">
 					This is a simple hero unit, a simple jumbotron-style
 					component for calling extra attention to featured content or
