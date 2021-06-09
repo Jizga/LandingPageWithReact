@@ -3,7 +3,7 @@ import PropTypes from "prop-types";
 
 export function Card(props) {
 	return (
-		<div className="container mt-5">
+		<div className="container mt-2">
 			<div className="card myCard">
 				<img
 					className="card-img-top myImg"
