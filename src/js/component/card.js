@@ -4,9 +4,9 @@ import PropTypes from "prop-types";
 export function Card(props) {
 	return (
 		<div className="container mt-5">
-			<div className="card">
+			<div className="card myCard">
 				<img
-					className="card-img-top"
+					className="card-img-top myImg"
 					src={props.img}
 					alt="Card image cap"></img>
 

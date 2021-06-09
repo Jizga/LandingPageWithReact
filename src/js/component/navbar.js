@@ -16,8 +16,9 @@ export function Navbar() {
 				aria-label="Toggle navigation">
 				<span className="navbar-toggler-icon"></span>
 			</button>
-			<div className=" collapse navbar-collapse" id="navbarNav">
-				{/* <div className="row justify-content-end"> */}
+			<div
+				className=" collapse navbar-collapse d-flex flex-row-reverse"
+				id="navbarNav">
 				<ul className="navbar-nav ">
 					<li className="nav-item active">
 						<a className="nav-link" href="#">
@@ -41,7 +42,6 @@ export function Navbar() {
 					</li>
 				</ul>
 			</div>
-			{/* </div> */}
 		</nav>
 	);
 }
